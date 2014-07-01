@@ -1,7 +1,7 @@
 raf
 ===
 
-a simple web application framework implements by racket
+A simple REST Application Framework implements by [Racket](racket-lang.org)
 
 
 ####Usage
